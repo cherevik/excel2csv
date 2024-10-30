@@ -1,0 +1,67 @@
+Salesforce Account Name,Healthsystem,Category,City,State,Products,EHR
+Enloe Regional Cancer Center,Enloe Health Regional Cancer Center,Community (Medium IDN),Chico,California,iQueue for Infusion Centers,Other
+Hartford HealthCare (AKA Hartford Healthcare Corporation),Hartford HealthCare,Community (Large IDN),Hartford,Connecticut,iQueue for Infusion Centers;iQueue for OR,Epic
+University of Utah Health,University of Utah Health,Academic Tier 1,Salt Lake City,Utah,iQueue for Infusion Centers;iQueue for OR,Epic
+Intermountain Healthcare,Intermountain Healthcare,Community (Large IDN),Salt Lake City,Utah,iQueue for Infusion Centers;iQueue for OR,Epic
+Johns Hopkins Health System (AKA Johns Hopkins Medicine),Johns Hopkins Health System,Academic Tier 1,Baltimore,Maryland,iQueue for Infusion Centers,Epic
+Memorial Sloan Kettering Cancer Center,Memorial Sloan Kettering Cancer Center,Academic Tier 1,New York,New York,iQueue for Infusion Centers,Epic
+Nebraska Medicine,Nebraska Medicine,Community (Large IDN),Omaha,Nebraska,iQueue for Infusion Centers,Epic
+New York - Presbyterian,New York - Presbyterian,Community (Large IDN),New York,New York,iQueue for Infusion Centers,Epic
+Novant Health,Novant Health,Community (Large IDN),Winston-Salem,North Carolina,iQueue for Infusion Centers;iQueue for OR,Epic
+Oklahoma Cancer Specialists and Research Institute,Oklahoma Cancer Specialists and Research Institute,Community (Medium IDN),Oklahoma City,Oklahoma,iQueue for Infusion Centers,Other
+OHSU Partners,Oregon Health & Science University,Academic Tier 1,Portland,Oregon,iQueue for Infusion Centers;iQueue for OR,Epic
+Penn Medicine,Penn Medicine,Academic Tier 1,Philadelphia,Pennsylvania,iQueue for Infusion Centers;iQueue for OR,Epic
+SSM Health,SSM Health,Community (Large IDN),St. Louis,Missouri,iQueue for Infusion Centers,Epic
+Stanford Medicine,Stanford Medicine,Academic Tier 1,Stanford,California,iQueue for Infusion Centers,Epic
+Texas Oncology,Texas Oncology,Private Practice Cancer Care,Texas (Various Locations),Texas,iQueue for Infusion Centers,Other
+UCHealth (AKA University of Colorado Health),University of Colorado Health,Community (Large IDN),Aurora,Colorado,iQueue for Beds;iQueue for Infusion Centers;iQueue for OR,Epic
+University of California San Francisco Health System (AKA UCSF Health),UCSF Health,Academic Tier 1,San Francisco,California,iQueue for Infusion Centers,Epic
+Vanderbilt-Ingram Cancer Center,Vanderbilt-Ingram Cancer Center,Academic Tier 1,Nashville,Tennessee,iQueue for Infusion Centers,Epic
+Atrium Health Wake Forest Baptist (FKA Wake Forest Baptist Health),Atrium Health Wake Forest Baptist,Community (Large IDN),Winston-Salem,North Carolina,iQueue for Infusion Centers,Epic
+Yale New Haven Health System,Yale New Haven Health System,Academic Tier 1,New Haven,Connecticut,iQueue for Infusion Centers,Epic
+Baptist Health (Jacksonville FL),Baptist Health (Jacksonville FL),Community (Large IDN),Jacksonville,Florida,iQueue for Infusion Centers;iQueue for OR,Epic
+Baptist Health (Jacksonville FL),Baptist Health (Jacksonville FL),Community (Large IDN),Jacksonville,Florida,iQueue for Infusion Centers;iQueue for OR,Epic
+Baylor Scott & White Health,Baylor Scott & White Health,Community (Large IDN),Dallas,Texas,iQueue for OR,Epic
+Childrens Hospital & Medical Center,Childrens Hospital & Medical Center,Children's Hospital,Omaha,Nebraska,iQueue for OR,Other
+CommonSpirit Health,CommonSpirit Health,Community (Large IDN),Denver,Colorado,iQueue for Infusion Centers;iQueue for OR,Epic
+CommonSpirit Health,CommonSpirit Health,Community (Large IDN),Denver,Colorado,iQueue for Infusion Centers;iQueue for OR,Epic
+Cone Health (FKA Moses Cone Memorial Health),Cone Health,Community (Medium IDN),Greensboro,North Carolina,iQueue for Infusion Centers;iQueue for OR,Epic
+Gundersen Health System,Gundersen Health System,Community (Large IDN),La Crosse,Wisconsin,iQueue for Infusion Centers;iQueue for OR,Epic
+Hartford HealthCare (AKA Hartford Healthcare Corporation),Hartford HealthCare,Community (Large IDN),Hartford,Connecticut,iQueue for Infusion Centers;iQueue for OR,Epic
+Intermountain Healthcare,Intermountain Healthcare,Community (Large IDN),Salt Lake City,Utah,iQueue for Infusion Centers;iQueue for OR,Epic
+Lee Health (AKA Lee Memorial Health System),Lee Health,Community (Medium IDN),Fort Myers,Florida,iQueue for Infusion Centers;iQueue for OR,Epic
+Memorial Hospital,Memorial Hospital,Community (Medium IDN),Marysville,Ohio,iQueue for OR,Other
+Monument Health (FKA Regional Health),Monument Health,Community (Large IDN),Rapid City,South Dakota,iQueue for Infusion Centers;iQueue for OR,Other
+Mount Nittany Health,Mount Nittany Health,Community (Medium IDN),State College,Pennsylvania,iQueue for OR,Other
+MultiCare Health System,MultiCare Health System,Community (Large IDN),Tacoma,Washington,iQueue for Infusion Centers;iQueue for OR,Epic
+Medical University of South Carolina Health System (AKA MUSC Health),Medical University of South Carolina,Academic Tier 1,Charleston,South Carolina,iQueue for Beds;iQueue for Infusion Centers;iQueue for OR,Epic
+Northwell Health (AKA North Shore Long Island Jewish Health System),Northwell Health,Community (Large IDN),New Hyde Park,New York,iQueue for Infusion Centers;iQueue for OR,Epic
+Novant Health,Novant Health,Community (Large IDN),Winston-Salem,North Carolina,iQueue for Infusion Centers;iQueue for OR,Epic
+Ochsner Health System,Ochsner Health System,Community (Large IDN),Jefferson,Louisiana,iQueue for OR,Epic
+OhioHealth,OhioHealth,Community (Large IDN),Columbus,Ohio,iQueue for Infusion Centers;iQueue for OR,Epic
+OhioHealth,OhioHealth,Community (Large IDN),Columbus,Ohio,iQueue for Infusion Centers;iQueue for OR,Epic
+OHSU (AKA Oregon Health and Science University),Oregon Health and Science University,Academic Tier 1,Portland,Oregon,iQueue for Infusion Centers;iQueue for OR,Epic
+OrthoNebraska Hospital (FKA Nebraska Orthopaedic Hospital),OrthoNebraska,Community (Medium IDN),Omaha,Nebraska,iQueue for OR,Other
+Providence St Joseph Health (AKA Providence),Providence St Joseph Health,Community (Large IDN),Renton,Washington,iQueue for Infusion Centers;iQueue for OR,Epic
+RUSH University Medical Center,RUSH University Medical Center,Academic Tier 1,Chicago,Illinois,iQueue for Infusion Centers;iQueue for OR,Epic
+SUNY Upstate Medical University,SUNY Upstate Medical University,Academic Tier 2,Syracuse,New York,iQueue for OR,Other
+Texas Healthcare System,Texas Healthcare System,Community (Large IDN),Texas (Various Locations),Texas,iQueue for OR,Epic
+UCHealth (AKA University of Colorado Health),UCHealth,Academic Tier 1,Aurora,Colorado,iQueue for Beds;iQueue for Infusion Centers;iQueue for OR,Epic
+The University of Kansas Health System,The University of Kansas Health System,Academic Tier 2,Kansas City,Kansas,iQueue for Infusion Centers;iQueue for OR,Other
+University of Utah Health,University of Utah Health,Academic Tier 1,Salt Lake City,Utah,iQueue for Infusion Centers;iQueue for OR,Epic
+WakeMed Health and Hospitals,WakeMed Health and Hospitals,Community (Large IDN),Raleigh,North Carolina,iQueue for OR,Epic
+Health First,Health First,Community (Large IDN),Rockledge,Florida,iQueue for Beds,Other
+Hendrick Health,Hendrick Health,Community (Large IDN),Abilene,Texas,iQueue for Beds;iQueue for OR,Other
+Leading Indiana Health System,Leading Indiana Health System,Community (Large IDN),Indiana (Various Locations),Indiana,iQueue for Beds,Other
+Sarasota Memorial Hospital,Sarasota Memorial Health Care System,Community (Large IDN),Sarasota,Florida,iQueue for Beds;iQueue for OR,Other
+Springhill Medical Center,Springhill Medical Center,Community (Medium IDN),Mobile,Alabama,iQueue for Beds;iQueue for OR,Other
+Vanderbilt Health (FKA Vanderbilt University Medical Center System),Vanderbilt Health,Academic Tier 1,Nashville,Tennessee,iQueue for Beds;iQueue for Infusion Centers,Epic
+Emory Healthcare,Emory Healthcare,Academic Tier 1,Atlanta,Georgia,iQueue for Infusion Centers,Epic
+Kelsey-Seybold Clinic,Kelsey-Seybold Clinic,Community (Large IDN),Pearland,Texas,iQueue for Infusion Centers,Epic
+Fred Hutch Cancer Center,Fred Hutch Cancer Center,Academic Tier 1,Seattle,Washington,iQueue for Infusion Centers,Epic
+Missouri Baptist,Missouri Baptist,Community (Large IDN),St. Louis,Missouri,iQueue for Infusion Centers,Cerner
+Billings Clinic,Billings Clinic,Community (Large IDN),Billings,Montana,iQueue for Infusion Centers,Cerner
+Duke Cancer Institute,Duke Cancer Institute,Academic Tier 1,Durham,North Carolina,iQueue for Infusion Centers,Epic
+McLaren Health,McLaren Health,Community (Large IDN),Grand Blanc,Michigan,iQueue for OR,Cerner
+Lexington Medical Center,Lexington Medical Center,Community (Large IDN),West Columbia,South Carolina,iQueue for Infusion Centers,Other
+Baptist Health (Arkansas),Baptist Health (Arkansas),Community (Large IDN),Little Rock,Arkansas,iQueue for Beds,Other
