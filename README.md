@@ -27,6 +27,14 @@ Windows:
 
 Test your installation by running the following command 
 
+Mac: 
+
 ```code
-python excel2csv.py files/health_systems.xslx files/health_systems.csv
+python3 excel2csv.py files/systems.xslx files/systems.csv
 ```
+
+Windows: 
+```code
+python excel2csv.py files\systems.xslx files\systems.csv
+```
+
